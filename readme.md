@@ -1,10 +1,3 @@
-# README mejorado
-
-El problema principal de visualización es que **todo el documento está envuelto en un bloque ` ```markdown ... ``` `**, por lo que GitHub (o cualquier renderizador) lo muestra como *una sola caja de código* en lugar de interpretarlo como Markdown.
-
-Quita ese *wrapper* exterior y aplica los ajustes de formato que dejo abajo. Aquí tienes la versión corregida:
-
-```markdown
 # 📦 BD_SIGA_PAGE_API_RES
 
 [![GitHub Pages](https://img.shields.io/badge/hosting-GitHub%20Pages-2ea44f?logo=github)](https://pages.github.com/)
